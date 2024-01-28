@@ -12,7 +12,7 @@ export default function ARProject() {
           </div>
           <div className="p-5 flex flex-col md:flex-row items-center max-w-6xl mx-auto">
             <div className="w-full md:w-1/2 lg:w-1/3 md:py-10">
-              <Image src="/annabelleaaron.github.io/p1.gif" className="gif-size" alt="Gif showing how the Augmented Reality appears"/>
+              <Image src="./p1.gif" className="gif-size" alt="Gif showing how the Augmented Reality appears"/>
             </div>
             <div className="w-full md:w-1/2 lg:w-2/3 pt-2 md:py-10 ">
               <p>I was tasked to collaborate with another student to help showcase the university campus in Augmented Reality.</p>
@@ -22,7 +22,7 @@ export default function ARProject() {
           </div>
           <div className="p-5 flex flex-col md:flex-row items-center max-w-6xl mx-auto">
             <div className="w-full md:w-1/2 lg:w-1/3 md:py-10">
-              <Image src="/annabelleaaron.github.io/p2.gif" className="gif-size" alt="Gif showing the interactivity between the user and the sphere"/>
+              <Image src="./p2.gif" className="gif-size" alt="Gif showing the interactivity between the user and the sphere"/>
             </div>
             <div className="w-full md:w-1/2 lg:w-2/3 pt-2 md:py-10 ">
               <p>The reality is interactive using effects.</p>
@@ -30,7 +30,7 @@ export default function ARProject() {
           </div>
           <div className="p-5 flex flex-col md:flex-row items-center max-w-6xl mx-auto">
             <div className="w-full md:w-1/2 lg:w-1/3 md:py-10">
-              <Image src="/annabelleaaron.github.io/p3.gif" className="gif-size" alt="Gif showing the interactivity when the user taps on the sphere"/>
+              <Image src="./p3.gif" className="gif-size" alt="Gif showing the interactivity when the user taps on the sphere"/>
             </div>
             <div className="w-full md:w-1/2 lg:w-2/3 pt-2 md:py-10 ">
               <p>{"Tapping on the sphere shows the building's interior."}</p>
