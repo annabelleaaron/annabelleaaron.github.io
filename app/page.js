@@ -45,7 +45,7 @@ export default function Home() {
         <div className="flex flex-col md:flex-row md:flex-wrap">
           <div className="bg-indigo-300 w-80 my-10 p-5 mx-auto rounded-xl">
             <div className="container mx-auto">
-              <Image src="/portfolio/leave-management-system.png" alt="Leave Management System"/>
+              <Image src="/annabelleaaron.github.io/leave-management-system.png" alt="Leave Management System"/>
             </div>
             <div className="text-white align-baseline">
               <div className="py-3">
@@ -59,7 +59,7 @@ export default function Home() {
 
           <div className="bg-indigo-300 w-80 my-10 p-5 mx-auto rounded-xl">
             <div className="container mx-auto">
-              <Image src="/portfolio/unity-vuforia.jpg" alt="Unity and Vuforia"/>
+              <Image src="/annabelleaaron.github.io/unity-vuforia.jpg" alt="Unity and Vuforia"/>
             </div>
             <div className="text-white align-baseline">
               <div className="py-3">
